@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Configurações do Ambiente / Chaves Sensíveis (Prática do OWASP recomendada pelo Gemini)
+.env
+.env.local
+.env.production
+
+# IDEs
+.vscode/
+.idea/
